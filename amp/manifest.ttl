@@ -1,0 +1,4 @@
+<http://plugins.gstark.net/lv2/amp>
+	a lv2:Plugin ;
+	lv2:binary <amp@LIB_EXT@> ;
+	rdfs:seeAlso <amp.ttl> .
